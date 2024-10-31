@@ -7,10 +7,5 @@ Branches are usually used for testing out new features without breaking a workin
 
 
 <<<<<<< Updated upstream
-This line is created from Github
-=======
-
-
-
-Hi, I am from VS code.
+This line is created from Github. Hi, I am from VS code.
 >>>>>>> Stashed changes
